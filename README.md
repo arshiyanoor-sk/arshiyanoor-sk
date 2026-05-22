@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm ArshiyaNoor Shaik 👋
 
-<!--
-**arshiyanoor-sk/arshiyanoor-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer • AI & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building modern, scalable, and visually engaging web applications with a focus on clean UI engineering, full stack development, and intelligent digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* React.js
+* JavaScript
+* Node.js
+* Express.js
+* MongoDB
+* Java
+* Python
+* REST APIs
+* Cybersecurity Fundamentals
+
+## Current Focus
+
+* Full Stack Development
+* AI-Powered Applications
+* Frontend Engineering
+* Cybersecurity Technologies
+
+## Featured Projects
+
+* FlowMind AI
+* Modern E-Commerce Platform
+* Developer Portfolio Website
+
+## Connect With Me
+
+* LinkedIn: linkedin.com/in/arshiyanoorshaik
