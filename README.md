@@ -1,34 +1,13 @@
-# Hi, I'm ArshiyaNoor Shaik 👋
+# Hi, I'm Arshiya Noor Shaik 👋
 
-### Full Stack Developer • AI & Cybersecurity Enthusiast
+I'm a Computer Science graduate passionate about turning data into clear, actionable insights. I work with Python, SQL, and data visualization to clean, analyze, and interpret data, and I'm especially interested in how AI can strengthen data-driven decision-making.
 
-I enjoy building modern, scalable, and visually engaging web applications with a focus on clean UI engineering, full stack development, and intelligent digital experiences.
+Through projects and hackathons, I've worked with operational data, databases, AI systems, and real-world problem solving. My projects include data-driven analysis as well as AI-powered applications such as Nemorix and IncidentIQ.
 
-## Tech Stack
+I'm currently strengthening my analytics skills in SQL, Python, data visualization, and dashboarding while looking for opportunities where I can use data to uncover patterns, generate insights, and support better decisions.
 
-* React.js
-* JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* Java
-* Python
-* REST APIs
-* Cybersecurity Fundamentals
+### Skills
+SQL • Python • Data Analysis • Data Cleaning • Data Visualization • Excel • MySQL • AI
 
-## Current Focus
-
-* Full Stack Development
-* AI-Powered Applications
-* Frontend Engineering
-* Cybersecurity Technologies
-
-## Featured Projects
-
-* FlowMind AI
-* Modern E-Commerce Platform
-* Developer Portfolio Website
-
-## Connect With Me
-
-* LinkedIn: linkedin.com/in/arshiyanoorshaik
+### Connect
+LinkedIn: www.linkedin.com/in/arshiyanoorshaik
