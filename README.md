@@ -1,45 +1,44 @@
 # Hi, I'm Arshiyanoor Shaik 👋
 
-### Software Engineer | Full-Stack Developer | AI & Cloud | Building Secure & Scalable Applications
+### Data Analyst | SQL • Python • Data Analytics | Turning Data into Insights
 
-I'm a Computer Science & Engineering graduate focused on building practical, secure, and scalable software solutions.
+I'm a Computer Science & Engineering graduate focused on **Data Analytics and data-driven problem solving**.
 
-I enjoy working across the stack — from developing responsive user interfaces and RESTful backend services to designing database-driven applications and integrating modern AI technologies.
+I enjoy working with datasets, cleaning and analyzing data, identifying patterns and trends, and turning analytical findings into meaningful insights and recommendations.
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · Java · JavaScript · SQL  
-**Frontend:** React.js · HTML · CSS  
-**Backend:** Spring Boot · Spring Security · Node.js · Express.js · REST APIs  
-**Databases:** MongoDB · MySQL · CockroachDB  
-**AI & Cloud:** Azure AI Foundry · Azure OpenAI · Amazon Bedrock · OpenAI API  
-**Tools:** Git · GitHub · Postman · Maven · Jest
+**Languages:** Python · SQL · Java
+**Data Analytics:** Pandas · NumPy · Excel · Data Cleaning · EDA · Statistical Analysis
+**Visualization:** Matplotlib · Seaborn
+**Databases:** MySQL · MongoDB · CockroachDB
+**Tools:** Git · GitHub · VS Code · Jupyter Notebook
 
-### 🚀 What I Build
+### 📊 What I Work On
 
-- Full-stack applications using Java, Spring Boot, React, and MongoDB
-- AI-powered applications and intelligent agents
-- Backend services and RESTful APIs
-- Database-driven applications and cloud-integrated solutions
+* Data cleaning, preprocessing, and exploratory data analysis
+* SQL-based data extraction and analysis
+* Customer, sales, and retention analytics
+* Data visualization and insight generation
+* Business-focused analytics and reporting
+* Applying analytical thinking to real-world datasets
 
 ### 🌱 Currently Exploring
 
-- AI Agents & Agentic Systems
-- Backend Architecture
-- Cloud Technologies
-- Scalable Full-Stack Applications
-- Data Structures & Algorithms
+* Advanced SQL & Data Analysis
+* Business Analytics
+* Data Visualization
+* Statistical Analysis
+* Business Intelligence
 
 ### 📌 Featured Projects
 
-**Nemorix** — AI SRE Agent with Persistent Operational Memory  
-**IncidentIQ** — Multi-Agent AI Copilot for Intelligent Root Cause Analysis  
-**The Royal Edition** — Java Full-Stack E-Commerce Platform  
+**Customer Sales & Retention Analysis** — Python & SQL Analytics Project
+**Nemorix** — AI SRE Agent with Persistent Operational Memory
 **FlowMind** — Full-Stack Productivity Application
 
 ### 🤝 Connect
 
-I'm interested in building useful software, solving practical engineering problems, and continuously learning new technologies.
+I'm interested in working with data, solving practical problems, and continuously improving my analytical and technical skills.
 
-📫 **Email:** arshiyanoor.sk@gmail.com  
 💼 **LinkedIn:** [Arshiyanoor Shaik](https://www.linkedin.com/in/arshiyanoorshaik)
