@@ -1,44 +1,47 @@
 # Hi, I'm Arshiyanoor Shaik 👋
 
-### Data Analyst | SQL • Python • Data Analytics | Turning Data into Insights
+### Data Analyst | SQL • Python • Data Analytics | AI & Cloud
 
-I'm a Computer Science & Engineering graduate focused on **Data Analytics and data-driven problem solving**.
+I'm a Computer Science & Engineering graduate focused on **Data Analytics, AI, and data-driven problem solving**.
 
-I enjoy working with datasets, cleaning and analyzing data, identifying patterns and trends, and turning analytical findings into meaningful insights and recommendations.
+I enjoy working with data to identify patterns, generate insights, and solve practical problems. I also have hands-on experience building full-stack applications, AI-powered systems, and cloud-integrated projects.
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · Java
-**Data Analytics:** Pandas · NumPy · Excel · Data Cleaning · EDA · Statistical Analysis
+**Languages:** Python · SQL · Java · JavaScript
+**Data Analytics:** Pandas · NumPy · Excel · Data Cleaning · EDA · Data Visualization
 **Visualization:** Matplotlib · Seaborn
 **Databases:** MySQL · MongoDB · CockroachDB
-**Tools:** Git · GitHub · VS Code · Jupyter Notebook
+**AI & Cloud:** Amazon Bedrock · Azure AI Foundry · Azure OpenAI · OpenAI API
+**Development:** React.js · Node.js · Express.js · Spring Boot · REST APIs
+**Tools:** Git · GitHub · Jupyter Notebook · VS Code · Postman
 
 ### 📊 What I Work On
 
-* Data cleaning, preprocessing, and exploratory data analysis
-* SQL-based data extraction and analysis
+* Data cleaning, analysis, and visualization
+* SQL-based data exploration and business analysis
 * Customer, sales, and retention analytics
-* Data visualization and insight generation
-* Business-focused analytics and reporting
-* Applying analytical thinking to real-world datasets
+* AI-powered applications and intelligent agents
+* Full-stack and database-driven applications
 
 ### 🌱 Currently Exploring
 
-* Advanced SQL & Data Analysis
-* Business Analytics
-* Data Visualization
-* Statistical Analysis
-* Business Intelligence
+* Advanced SQL & Data Analytics
+* Business Analytics & BI
+* AI Agents & Agentic Systems
+* Cloud Technologies
 
 ### 📌 Featured Projects
 
 **Customer Sales & Retention Analysis** — Python & SQL Analytics Project
+
 **Nemorix** — AI SRE Agent with Persistent Operational Memory
+*CockroachDB × AWS Hackathon — Build with Agentic Memory*
+
 **FlowMind** — Full-Stack Productivity Application
 
 ### 🤝 Connect
 
-I'm interested in working with data, solving practical problems, and continuously improving my analytical and technical skills.
+I'm interested in working with data, building practical AI solutions, and continuously learning across analytics and technology.
 
 💼 **LinkedIn:** [Arshiyanoor Shaik](https://www.linkedin.com/in/arshiyanoorshaik)
