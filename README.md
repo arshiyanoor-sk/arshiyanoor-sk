@@ -1,5 +1,5 @@
 ### Hi, I'm Arshiyanoor Shaik 👋
-**Software Engineering | Python • Full-Stack & AI Development**
+**Software Engineer | Full-Stack Developer | AI Agents & Cloud | Building Secure Web Applications**
 
 I'm a Computer Science & Engineering graduate focused on software development, algorithmic problem solving, and building AI-powered applications.
 
@@ -35,8 +35,8 @@ I enjoy solving coding problems in Python and building end-to-end systems—from
 
 ### 📌 Featured Projects
 * **[Nemorix](https://github.com)** — AI SRE Agent with Persistent Operational Memory using CockroachDB Vector Search & Amazon Bedrock *(CockroachDB × AWS Hackathon)*
-* **[FlowMind](https://github.com)** — Full-Stack Productivity & AI Workspace with JWT auth, MongoDB GridFS, and Jest unit tests ([Live App](https://vercel.app))
 * **[IncidentIQ](https://github.com)** — Multi-Agent Root Cause Analysis Copilot using Azure OpenAI GPT-4o & Foundry IQ *(Microsoft Agents League 2026)*
+* **[FlowMind](https://github.com)** — Full-Stack Productivity & AI Workspace with JWT auth, MongoDB GridFS, and Jest unit tests ([Live App](https://vercel.app))
 * **[Customer Sales & Retention Analysis](https://github.com)** — End-to-end Python & SQL cohort analytics pipeline over 531K+ transactions
 
 ---
