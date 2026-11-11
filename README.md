@@ -1,5 +1,5 @@
 ### Hi, I'm Arshiyanoor Shaik 👋
-**Software Engineer | Full-Stack Developer | AI Agents & Cloud | Building Secure Web Applications**
+**Software Engineer | AI Agents & Cloud | Building Secure Web Applications**
 
 I'm a Computer Science & Engineering graduate focused on software development, algorithmic problem solving, and building AI-powered applications.
 
